@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishalrothe" alt="vishalrothe" /></a> </p>
 
-- 🌱 I’m currently learning **DSA with java,React.js**
+- 🌱 I’m currently learning **DSA with java,Spring,SpringBoot
 
 - 👨‍💻 All of my projects are available at [https://github.com/VishalRothe](https://github.com/VishalRothe)
 
