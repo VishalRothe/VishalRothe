@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Rothe</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate software Engineer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalrothe&label=Profile%20views&color=0e75b6&style=flat" alt="vishalrothe" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.dropbox.com/scl/fi/65rpnqssf32zvfkl15ks0/Vishal_Resume-1.pdf?rlkey=7n28c6lyeshlbek9chnnp13w3&dl=0](https://www.dropbox.com/scl/fi/65rpnqssf32zvfkl15ks0/Vishal_Resume-1.pdf?rlkey=7n28c6lyeshlbek9chnnp13w3&dl=0)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vishal-rothe-032085229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishal-rothe-032085229" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/vishal_r_08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vishal_r_08/" height="30" width="40" /></a>
